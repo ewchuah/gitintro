@@ -1,3 +1,10 @@
 OUr best thoughts came from others
 -Letters and Social Aims. Quotation and Originality. Raph Waldo Emersons
 To be or not to be, that is the question!
+
+add develop1
+add feature1
+another user added feature-1a
+add feature2
+bug fix for feature2
+
