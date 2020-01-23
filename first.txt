@@ -6,7 +6,5 @@ add develop1
 add feature1
 another user added feature-1a
 add feature2
-<<<<<<< HEAD
 bug fix for feature2
-=======
->>>>>>> c2dc1ee89d51d2e4b8a03aa80a0bd35f988efdf7
+
