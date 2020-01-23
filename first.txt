@@ -6,3 +6,5 @@ add develop1
 add feature1
 another user added feature-1a
 add feature2
+bug fix for feature2
+
